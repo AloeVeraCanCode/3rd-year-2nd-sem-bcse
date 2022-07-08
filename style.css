@@ -1,0 +1,51 @@
+.container{
+    border:2px solid red ;
+    width:650px;
+    height:650px;
+    margin:auto;
+    overflow-y:auto;
+}
+.left{
+    font-size:20px;
+    width:200px;
+    background-color:green;
+    margin:5px ;
+    float:left;
+    clear:both;
+    padding:5px;
+}
+.right{
+    width:200px;
+    font-size:20px;
+    margin:auto;
+    margin:5px auto;
+    background-color:green;
+    float:right;
+    clear:both;
+    padding:5px;
+}
+.middle{
+    width:200px;
+    font-size:15px;
+    margin:5px auto;
+    background-color:rgb(158, 172, 137);
+    clear:both;
+    padding:5px;
+    border-bottom:5 px;
+}
+.messageBox{
+    /* margin: 10px 10px 0px 240px; */
+    margin: 1vh 1vh 1vh 60vh;
+    width:450px;
+    border-radius:5px;
+}
+.limagediv{
+    float:left;
+    clear:both;
+    padding: 5px;
+}
+.rimagediv{
+    padding: 5px;
+    float:right;
+    clear:both;
+}
